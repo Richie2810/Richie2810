@@ -3,9 +3,9 @@
 #### I'm a Junior Full Stack Developer located in Amsterdam
 
 ##### About me:
-- 🌱 I’m currently a student at [Codaisseur]()
+- 🌱 I’m currently a student at [Codaisseur](https://codaisseur.com/)
 - 👯 Background in Theatre Technology
-- 📫 How to reach me: LinkedIn(www.linkedin.com/in/richie-o-neill)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/richie-o-neill)
 
 ##### Projects
 
