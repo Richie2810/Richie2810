@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Richie 👋
 
-<!--
-**Richie2810/Richie2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Junior Full Stack Developer located in Amsterdam
 
-Here are some ideas to get you started:
+##### About me:
+- 🌱 I’m currently a student at [Codaisseur]()
+- 👯 Background in Theatre Technology
+- 📫 How to reach me: LinkedIn(www.linkedin.com/in/richie-o-neill)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Projects
+
+For my final project of the Codaisseur Academy I created a Festival app. This is an app in which you can keep track of the acts you want to see at an evert, what stage day and time, the app also has functionality to be a planner of the event, changing artsm newfeed, crew members and keeping track of all large equipment needed.
+
+You can find more information on this project [here](https://github.com/Richie2810/F-festival-app).
