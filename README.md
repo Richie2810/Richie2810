@@ -5,7 +5,7 @@
 ##### About me:
 - 🌱 I’m currently a student at [Codaisseur](https://codaisseur.com/)
 - 👯 Background in Theatre Technology
-- 📫 How to reach me on [LinkedIn](www.linkedin.com/in/richie-o-neill) or Email richard.oneill.dev@gmail.com
+- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/richie-o-neill) or Email richard.oneill.dev@gmail.com
 
 ##### Languages and Tools i've worked with:
 <p>
